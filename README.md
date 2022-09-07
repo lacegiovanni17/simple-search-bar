@@ -1,5 +1,4 @@
 # simple-search-bar
-# contact-page-site
 👋 Hi, I’m Chidike Henry 
 😎 I’m a web developer 
 💻 This is a search bar made with HTML & CSS. 
